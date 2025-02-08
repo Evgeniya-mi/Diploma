@@ -1,1 +1,1 @@
-Results of experiments and their analysis
+Experimental results and their analysis
